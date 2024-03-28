@@ -32,8 +32,8 @@ Now all node modules and dependencies are updated on project. Now, you can start
 -- nodemon app.js 
 
 ## Dependencies
-dotenv: For setup local environments files where you can setup PORT, REDIRECTION_URL, DB_URL, ect.
-body-parser: Request body parser to json response.
-express: For Run Node JS on local Machine.
-express-validator: For Validation of user APIs request.
-mongoose: Using for MongoDB Connection.
+* dotenv: For setup local environments files where you can setup PORT, REDIRECTION_URL, DB_URL, ect.
+* body-parser: Request body parser to json response.
+* express: For Run Node JS on local Machine.
+* express-validator: For Validation of user APIs request.
+* mongoose: Using for MongoDB Connection.
